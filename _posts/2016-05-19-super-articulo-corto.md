@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Some articles are just so short that we have to make the footer stick"
+title: "Algunos artículos son tan cortos que tenemos que hacer que el pie de página se pegue."
 categories: misc
 ---
 

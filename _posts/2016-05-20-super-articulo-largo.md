@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Some articles are just so long they deserve a really long title to see if things will break well"
+title: "Algunos artículos son tan largos que merecen un título muy largo para ver si las cosas se rompen bien."
 categories: misc
 ---
 
